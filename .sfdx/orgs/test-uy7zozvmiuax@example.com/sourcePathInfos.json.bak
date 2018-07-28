@@ -32,28 +32,28 @@
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1532798763686,
             "changeTime": 1532798763686,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1532799455629,
-            "changeTime": 1532799455629,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "modifiedTime": 1532795324920,
+            "changeTime": 1532795324920,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1532797782732,
+            "changeTime": 1532797782732,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1532799590649,
-            "changeTime": 1532799590649,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1532798763657,
             "changeTime": 1532798763657,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1532798763712,
             "changeTime": 1532798763712,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1532798763722,
             "changeTime": 1532798763722,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1532798763733,
             "changeTime": 1532798763733,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1532798763743,
             "changeTime": 1532798763743,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1532798763655,
             "changeTime": 1532798763655,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1532798763742,
             "changeTime": 1532798763742,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1532799455677,
-            "changeTime": 1532799455677,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1532798951641,
-            "changeTime": 1532798951641,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1532799455675,
-            "changeTime": 1532799455675,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1532799487736,
-            "changeTime": 1532799487736,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1532799455642,
-            "changeTime": 1532799455642,
-            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1532799559527,
-            "changeTime": 1532799559527,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1532799455679,
-            "changeTime": 1532799455679,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1532799455671,
-            "changeTime": 1532799455671,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1532799531815,
-            "changeTime": 1532799531815,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1532799455649,
-            "changeTime": 1532799455649,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1532799455657,
-            "changeTime": 1532799455657,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1532798951640,
-            "changeTime": 1532798951640,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1532799409940,
-            "changeTime": 1532799409940,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1532798951616,
-            "changeTime": 1532798951616,
-            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1532799438399,
-            "changeTime": 1532799438399,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1532798951643,
-            "changeTime": 1532798951643,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1532798951636,
-            "changeTime": 1532798951636,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1532798951621,
-            "changeTime": 1532798951621,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1532798951625,
-            "changeTime": 1532798951625,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\abhi\\Documents\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1532798951632,
-            "changeTime": 1532798951632,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
